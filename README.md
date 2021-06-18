@@ -8,7 +8,8 @@ As a web developer, I have implemented a new technology to optimize an existing 
 ## Tasks Assigned
 
 ```
-A client, Horiseon, wanted a codebase that follows accessibility standards such that their website is optimized for search engines.
+A client, Horiseon, wanted a codebase that follows accessibility standards 
+such that their website is optimized for search engines.
 Thus, I was asked to complete the following tasks:
 ```
 - The source code follows the semantic HTML elements
