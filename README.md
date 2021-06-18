@@ -2,7 +2,7 @@
 
 ## Description
 This project refactors the existing code of the Horiseon website. 
-A client has hired me as a to refactor an existing site to make it more accesible without making any functionality changes.
+A client has hired me as a web developer to refactor an existing site to make it more accesible without making any functionality changes.
 As a web developer, I have implemented a new technology to optimize an existing code by meeting the criteria that has been provided by the client.
 
 ## Tasks Assigned
@@ -21,6 +21,7 @@ Thus, I was asked to complete the following tasks:
 ## Tasks Completed
 
 ```
+As a web developer,
 The following tasks were completed to meet the client's criteria:
 ```
 - [x] __HTML elements__ have been organized and replaced with __semantic HTML elements__
