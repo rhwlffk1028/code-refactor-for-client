@@ -29,7 +29,7 @@ The following tasks were completed to meet the client's criteria:
 - [x] Heading elements were used properly named and they fall in __sequential order__
 - [x] A __concise and decriptive titles__ have been used
 - [x] Added comments in HTML and CSS to assist analyzing the code
-- [x] Removed a redundant codes in CSS to optimize the code
+- [x] Optimized redundant codes in CSS for better accessiblity
 
 ## Screenshot of the Website
 
@@ -40,3 +40,11 @@ The following tasks were completed to meet the client's criteria:
 Deployed Website Link: [https://rhwlffk1028.github.io/code-refactoring-for-client/](https://rhwlffk1028.github.io/code-refactoring-for-client/)
 
 Code Repository Link: [https://github.com/rhwlffk1028/code-refactoring-for-client/](https://github.com/rhwlffk1028/code-refactoring-for-client/)
+
+> **Note**: Use the first link above to access the website. By clicking the deployed webiste link, you will be directed to the web browser and it will be viewable.<br>
+> **Note**: Use the second link above to access the repository where the html, css, and image files are live.
+
+## Copyright
+---
+Copyright (c) [2021] [Jun Choi] <br>
+Confidential and Proprietary. All Rights Reserved.
